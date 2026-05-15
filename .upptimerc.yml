@@ -9,6 +9,8 @@ sites:
     url: https://www.corsematin.com
   - name: www.latribune.fr
     url: https://www.latribune.fr
+  - name: air-cosmos.latribune.fr
+    url: https://air-cosmos.latribune.fr
   - name: n8n-la-provence-production
     url: https://n8n-app-405115047504.europe-west1.run.app
 
