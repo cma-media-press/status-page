@@ -16,7 +16,7 @@ sites:
 
 status-website:
   # CNAME est inutile si tu es sur Cloudflare Pages direct, mais baseUrl est crucial
-  baseUrl: /
+  baseUrl: ""
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "La Provence - Status Page"
   introTitle: "État des Services"
