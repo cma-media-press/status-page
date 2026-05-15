@@ -1,5 +1,5 @@
 # Change these first
-owner: La Provence / Corse Matin / La Tribune
+owner: "TechLaProvence" # Utilise le nom de ton organisation ou de ton compte GitHub ici
 repo: status-page
 
 sites:
@@ -15,14 +15,12 @@ sites:
     url: https://n8n-app-405115047504.europe-west1.run.app
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: status-page-4gr.pages.dev
-  # baseUrl: /your-repo-name
+  # CNAME est inutile si tu es sur Cloudflare Pages direct, mais baseUrl est crucial
+  baseUrl: /
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status-Page
-  introTitle: Status Page
-  introMessage: Status page
+  name: "La Provence - Status Page"
+  introTitle: "État des Services"
+  introMessage: "Cette page affiche l'état en temps réel de nos plateformes numériques."
   navbar:
     - title: Status
       href: /
