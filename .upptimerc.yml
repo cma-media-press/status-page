@@ -15,8 +15,9 @@ sites:
     url: https://n8n-app-405115047504.europe-west1.run.app
 
 status-website:
-  # CNAME est inutile si tu es sur Cloudflare Pages direct, mais baseUrl est crucial
-  baseUrl: ""
+  baseUrl: /
+  # Ajoute cette ligne avec TON URL Cloudflare exacte
+  cname: status-page-4gr.pages.dev
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "La Provence - Status Page"
   introTitle: "État des Services"
