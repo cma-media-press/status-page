@@ -13,6 +13,12 @@ sites:
     url: https://air-cosmos.latribune.fr
   - name: n8n-la-provence-production
     url: https://n8n-app-405115047504.europe-west1.run.app
+  - name: n8n-corse-matin-production
+    url: https://n8n-app-41142445997.europe-west1.run.app
+  - name: n8n-la-tribune-production
+    url: https://n8n-app-276362972540.europe-west1.run.app
+  - name: n8n-lp-infra-production
+    url: https://n8n-app-23859382851.europe-west1.run.app
 
 status-website:
   baseUrl: /
