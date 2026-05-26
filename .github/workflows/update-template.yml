@@ -21,9 +21,8 @@ on:
   repository_dispatch:
     types: [update_template]
   workflow_dispatch:
-permissions:
+permissions: 
   contents: write
-  workflows: write
 jobs:
   release:
     name: Build
