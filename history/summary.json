@@ -112,19 +112,19 @@
     "url": "https://n8n-app-276362972540.europe-west1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-276362972540.europe-west1.run.app.ico",
     "slug": "n8n-la-tribune-production",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 179,
-    "timeDay": 149,
-    "timeWeek": 186,
-    "timeMonth": 179,
-    "timeYear": 179,
+    "status": "up",
+    "uptime": "95.69%",
+    "uptimeDay": "49.41%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "95.69%",
+    "time": 183,
+    "timeDay": 179,
+    "timeWeek": 192,
+    "timeMonth": 183,
+    "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-05-27": 42
+      "2026-05-27": 728
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "https://n8n-app-23859382851.europe-west1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-23859382851.europe-west1.run.app.ico",
     "slug": "n8n-lp-infra-production",
-    "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "97.09%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.74%",
-    "uptimeYear": "99.74%",
-    "time": 174,
-    "timeDay": 143,
-    "timeWeek": 173,
-    "timeMonth": 174,
-    "timeYear": 174,
+    "status": "up",
+    "uptime": "95.69%",
+    "uptimeDay": "49.42%",
+    "uptimeWeek": "92.77%",
+    "uptimeMonth": "95.69%",
+    "uptimeYear": "95.69%",
+    "time": 178,
+    "timeDay": 183,
+    "timeWeek": 180,
+    "timeMonth": 178,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2026-05-27": 42
+      "2026-05-27": 728
     }
   }
 ]
