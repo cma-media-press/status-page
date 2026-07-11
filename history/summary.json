@@ -76,20 +76,21 @@
     "url": "https://n8n-app-405115047504.europe-west1.run.app",
     "icon": "https://icons.duckduckgo.com/ip3/n8n-app-405115047504.europe-west1.run.app.ico",
     "slug": "n8n-la-provence-production",
-    "status": "down",
-    "uptime": "99.63%",
-    "uptimeDay": "86.91%",
-    "uptimeWeek": "96.96%",
-    "uptimeMonth": "99.30%",
-    "uptimeYear": "99.63%",
-    "time": 1128,
-    "timeDay": 9395,
-    "timeWeek": 4569,
-    "timeMonth": 2302,
-    "timeYear": 1128,
+    "status": "up",
+    "uptime": "99.55%",
+    "uptimeDay": "84.34%",
+    "uptimeWeek": "96.36%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.55%",
+    "time": 1115,
+    "timeDay": 9419,
+    "timeWeek": 4282,
+    "timeMonth": 2234,
+    "timeYear": 1115,
     "dailyMinutesDown": {
       "2026-07-09": 117,
-      "2026-07-10": 188
+      "2026-07-10": 188,
+      "2026-07-11": 61
     }
   },
   {
